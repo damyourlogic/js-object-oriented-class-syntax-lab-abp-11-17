@@ -22,7 +22,7 @@ class BoardMember {
 }
 class Ceo extends BoardMember {
   hireEmployee(){
-    return('Welome aboard')
+    return('Welcome aboard')
   }
 }
 let ceo = new Ceo('Mr.Ceo', 'South Carolina', 'business')
