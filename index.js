@@ -25,3 +25,5 @@ class CEO extends BoardMember {
     return('Welome aboard')
   }
 }
+let ceo = new Ceo('Mr.Ceo', 'South Carolina', 'business')
+let polishedBoardMember = new BoardMember('Mr.Polished', 'New York', 'law')
